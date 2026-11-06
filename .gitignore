@@ -1,0 +1,15 @@
+# KiCad local settings, locks, autosaves, and backup directories
+*.kicad_prl
+*.lck
+_autosave-*.kicad_sch
+*-backups/
+
+# Temporary/editor files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
